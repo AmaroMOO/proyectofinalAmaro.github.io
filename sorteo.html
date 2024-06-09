@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Euro 2024 - Sorteo</title>
+    <link rel="stylesheet" href="sorteo.css">
+    <link rel="icon" href="android-chrome-512x512.png" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <img src="https://www.daimani.com/dvh-media/EURO-2024-Logo-Icon-OnLight-Flat-8C.png?context=bWFzdGVyfHJvb3R8MjQ0NjAzfGltYWdlL3BuZ3xhRE0xTDJoaU9DODVNVFF5TmpRM05USXhNekV3TDBWVlVrOWZNakF5TkY5TWIyZHZYMGxqYjI1ZlQyNU1hV2RvZEY5R2JHRjBYemhETG5CdVp3fDU3YmQ1ZWYyMDQ4NGUyZjUyMzcwZTcyODJiOWEyNTg1ZGI1MzM0NjNiNjVlNTdkNGZhYjA2NmM0NWRiZTJhYWY" 
+        alt="Imagen EURO" class="header-img">
+        <h1>Euro 2024</h1>
+        <nav>
+            <ul>
+                <li><a href="inicio.html">Inicio</a></li>
+                <li><a href="noticias.html">Noticias</a></li>
+                <li><a href="equipos.html">Equipos</a></li>
+                <li><a href="sedes.html">Sedes</a></li>
+                <li><a href="sorteo.html">Sorteo</a></li>
+            </ul>
+        </nav>
+        
+        <div class="flags">
+            <a href="sorteo.html"><img src="https://static.vecteezy.com/system/resources/previews/016/314/510/non_2x/spain-flag-free-png.png" alt="Bandera Española" class="flag"><link rel="stylesheet" href="inicio.html"></a>
+            <a href="sorteoIngles.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" alt="Bandera Inglesa" class="flag1"><link rel="stylesheet" href="inicioIngles.html"></a>
+        </div>
+    </header>
+
+    <section>
+        <h1>EL MAYOR SORTEO DE LA EURO 2024</h1>
+        <h3>¡Gana premios asombrosos como balones oficiales o la camiseta de tu seleccion favorita! </h3>
+    </section>
+
+    <form id="registration-form">
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" name="name" required>
+        
+        <label for="email">Correo Electrónico:</label>
+        <input type="email" id="email" name="email" required>
+        
+        <label for="address">Dirección:</label>
+        <textarea id="address" name="address" rows="4" required></textarea>
+        
+        <input type="submit" value="Enviar Información">
+    </form>
+
+    <div id="confirmation-message" style="display: none; text-align: center; margin-top: 20px;">
+        <p>Felicidades, ya estás oficialmente participando en el mayor sorteo de la Euro 2024.</p>
+    </div>
+
+
+    <footer>
+        <img src="euro-2024-germany-symbol-logo-official-name-white-european-football-final-design-illustration-with-black-background-free-vector-removebg-preview.jpg"
+         alt="imagen 2" class="footer-img">
+        <p>&copy; 2024 Euro 2024. Todos los derechos reservados.</p>
+    </footer>
+    <script src="sorteo.js"></script>
+</body>
+</html>

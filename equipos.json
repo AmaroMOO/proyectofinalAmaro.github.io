@@ -1,0 +1,243 @@
+{
+    "TEAM": [
+    {
+        "pais": "alemania",
+        "jugadores": ["Manuel Neuer", "Joshua Kimmich", "Thomas Müller"],
+        "imagen": [
+            "https://img.fcbayern.com/image/upload/t_cms-1x1-seo/v1687851641/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/manuel_neuer.png", 
+            "https://media.futbolfantasy.com/thumb/400x400/v202406030144/uploads/images/jugadores/ficha-seleccion/2224.png",
+            "https://media.futbolfantasy.com/thumb/400x400/v202406030145/uploads/images/jugadores/ficha-seleccion/1553.png"
+        ]
+    },
+
+    {
+        "pais": "escocia",
+        "jugadores": ["Andrew Robertson", "Scott Mctominay", "John Mcginn"],
+        "imagen": [
+            "https://www.pesmaster.com/pes-2021/graphics/players/player_17926820_l.png", 
+            "https://assets.manutd.com/AssetPicker/images/0/0/18/254/1244691/39-Scott-McTominay1693929586809.png",
+            "https://cdn.futbin.com/content/fifa24/img/players/p67319745.png?v=23"
+        ]
+    },
+
+    {
+        "pais": "hungria",
+        "jugadores": ["Peter Gulacsi", "Willy Orban", "Dominik Szoboszlai"],
+        "imagen": [
+            "https://assets.sorare.com/playerpicture/b00c1d28-94f5-4e4e-adaf-5104e5e98dfd/picture/squared-7f25618e85374538b41f254cbc010dc7.png", 
+            "https://www.ceroacero.es/img/jogadores/54/789254_med__20210603035105_willi_orban.png",
+            "https://media.futbolfantasy.com/thumb/400x400/v202406030154/uploads/images/jugadores/ficha/7467.png"
+        ]
+    }, 
+    
+    {
+        "pais": "suiza",
+        "jugadores": ["Yann Sommer", "Granit Xhaka", "Xherdan Shaquiri"],
+        "imagen": [
+            "https://intermilan.bynder.com/m/219ba54f3076bd67/webimage-Sommer_2x.png", 
+            "https://media.futbolfantasy.com/thumb/400x400/v202405301533/uploads/images/jugadores/ficha/1246.png",
+            "https://www.ecured.cu/images/thumb/3/3b/Xshaqiri.png/260px-Xshaqiri.png"
+        ]
+    },
+    
+    {
+        "pais": "albania",
+        "jugadores": ["Strakosha", "Elseid Hysaj", "Marah Kumbulla"],
+        "imagen": [
+            "https://www.ceroacero.es/img/jogadores/20/784720_ori__20210520164252_thomas_strakosha.png", 
+            "https://proxy-img.sslazio.hiway.media/vimages/64f5df71/Hysaj1.png?webp&q=100&size=618x-",
+            "https://media.asroma.com/prod/images/gm_preview/e94509d3c961-kumbulla-copia.png"
+        ]
+    },
+
+    {
+        "pais": "croacia",
+        "jugadores": ["Modric", "Brozovic", "Gvardiol"],
+        "imagen": [
+            "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--323b5cf8-c89f-4158-addd-80b45571ff09/_383195890566.app.png?preferwebp=true&width=420", 
+            "https://media.futbolfantasy.com/thumb/400x400/v202405290223/uploads/images/jugadores/ficha/1429.png",
+            "https://www.mancity.com/meta/media/kwrfct1a/josko-gvardiol.png"
+        ]
+    },
+
+    {
+        "pais": "españa",
+        "jugadores": ["Rodri", "Nico Williams", "Grimaldo"],
+        "imagen": [
+            "https://www.mancity.com/meta/media/luzpuwv2/rodrigo.png", 
+            "https://assets.sorare.com/playerpicture/57fd984c-d93c-4d49-98d9-ea094654a296/picture/squared-0426d50a6698ee575218bcedd534604c.png",
+            "https://assets.sorare.com/playerpicture/1d424e9d-355c-4744-89d3-fa9795986b47/picture/squared-c9c9c69049820b50aca64c63fca4513f.png"
+        ]
+    },
+
+    {
+        "pais": "italia",
+        "jugadores": ["Barella", "Donnarumma", "Federico Chiesa"],
+        "imagen": [
+            "https://intermilan.bynder.com/m/511874ac0e2d25ea/webimage-Berella_2x.png", 
+            "https://assets.sorare.com/playerpicture/f8fc63b1-4d67-43e6-88a2-2cfc5fa4f5ba/picture/squared-b2fc81bb9ba9cae1157fc8749929f217.png",
+            "https://sortitoutsidospaces.b-cdn.net/media/1dLxPGFNWYm9PXVGyauhdwCpAcg3cSL4SbQSbhLI.png"
+        ]
+    },
+
+    {
+        "pais": "dinamarca",
+        "jugadores": ["Eriksen", "Christensen", "Hojlund"],
+        "imagen": [
+            "https://media.futbolfantasy.com/thumb/400x400/v202405301556/uploads/images/jugadores/ficha/3535.png", 
+            "https://e00-especiales-marca.uecdn.es/futbol/images/barcelona-campeon-2023/jugadores/christensen.png",
+            "https://media.futbolfantasy.com/thumb/400x400/v202405301556/uploads/images/jugadores/ficha/10542.png"
+        ]
+    },
+
+    {
+        "pais": "eslovenia",
+        "jugadores": ["Oblak", "Sesko", "Ilicic"],
+        "imagen": [
+            "https://img-estaticos.atleticodemadrid.com/system/fotos/7002/destacado_600x600/OBLAK.png?1534246622", 
+            "https://www.redbullsalzburg.at/akimages/rbsprod/getmedia/7e82e2e1-3581-4b78-adaf-ec13101807b9/_0015_30_NAT_Portrait_13.png.webp?imwidth=500",
+            "https://i.pinimg.com/originals/31/93/18/319318395410b688eca319ecc333c3b3.png"
+        ]
+    },
+
+    {
+        "pais": "inglaterra",
+        "jugadores": ["Cole Palmer", "Harry Kane", "Jude Bellingham"],
+        "imagen": [
+            "https://assets.sorare.com/playerpicture/aae78ee3-84ef-4ab1-9e44-5c253288a759/picture/squared-d996924fb626fb68a731f3661be2d97f.png", 
+            "https://assets.bundesliga.com/player/dfl-obj-j00zz3-dfl-clu-00000g-dfl-sea-0001k7.png",
+            "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--4604e966-ca25-4642-a5ea-adf2c5ff02a5/_330831770768.app.png?preferwebp=true&width=420"
+        ]
+    },
+
+    {
+        "pais": "serbia",
+        "jugadores": ["Milinkovic-Savic", "Vlahovic", "Kostic"],
+        "imagen": [
+            "https://static-files.saudi-pro-league.pulselive.com/players/headshot/p180793.png", 
+            "https://b.fssta.com/uploads/application/soccer/headshots/57253.png",
+            "https://media.futbolfantasy.com/thumb/400x400/v202405290232/uploads/images/jugadores/ficha/5412.png"
+        ]
+    },
+
+    {
+        "pais": "austria",
+        "jugadores": ["Arnautovic", "Sabitzer", "Laimer"],
+        "imagen": [
+            "https://intermilan.bynder.com/m/5720a6d7fa91a6c0/webimage-Arnautovic_2x.png", 
+            "https://assets.sorare.com/playerpicture/f787e1d8-1e7c-4dc2-89b2-83ae4c07d22c/picture/squared-70870bbe6273bdc1aff002cfc1a14e8f.png",
+            "https://img.fcbayern.com/image/upload/t_cms-1x1-seo/v1686144311/cms/public/images/fcbayern-com/players/spielerportraits/ganzkoerper/konrad-laimer.png"
+        ]
+    }, 
+
+    {
+        "pais": "francia",
+        "jugadores": ["Mbappé", "Griezmann", "Dembélé"],
+        "imagen": [
+            "https://www.pngall.com/wp-content/uploads/13/Kylian-Mbappe-Background-PNG.png", 
+            "https://img-estaticos.atleticodemadrid.com/system/fotos/7006/destacado_600x600/GRIEZMANN.png?1534246707",
+            "https://assets.sorare.com/playerpicture/6d051fdf-8ad3-4ca9-abb0-1777fca180d6/picture/squared-4275d39206c7a7a0cb5484c946e91efc.png"
+        ]
+    }, 
+
+    {
+        "pais": "paises bajos",
+        "jugadores": ["De Jong", "Van Dijk", "Jeremie Frimpong"],
+        "imagen": [
+            "https://assets.laliga.com/squad/2023/t178/p209712/2048x2225/p209712_t178_2023_1_001_000.png", 
+            "https://i0.wp.com/anfieldwatch.co.uk/wp-content/uploads/2021/10/virgilvandijk.png?fit=500%2C500&quality=99&ssl=1",
+            "https://media.futbolfantasy.com/thumb/400x400/v202406030236/uploads/images/jugadores/ficha/9702.png"
+        ]
+    },
+
+    {
+        "pais": "polonia",
+        "jugadores": ["Lewandowski", "Szcezsny", "Zielinski"],
+        "imagen": [
+            "https://assets.laliga.com/squad/2023/t178/p56764/2048x2225/p56764_t178_2023_1_001_000.png", 
+            "https://www.juventus.com/images/image/private/t_portrait_mobile/f_png/dev/fbgkaadff0qtja15sajv.png",
+            "https://img.legaseriea.it/vimages/64e38263/ZLKPT.png?webp&q=70&ch=840&size=-x265.5"
+        ]
+    }, 
+
+    {
+        "pais": "belgica",
+        "jugadores": ["De Bruyne", "Courtois", "Jeremy Doku"],
+        "imagen": [
+            "https://www.mancity.com/meta/media/z00hnhu0/kevin-de-bruyne.png?width=600", 
+            "https://assets.laliga.com/squad/2023/t186/p60772/2048x2225/p60772_t186_2023_1_001_000.png",
+            "https://www.mancity.com/meta/media/acxpthbg/jeremy-doku.png"
+        ]
+    }, 
+    
+    {
+        "pais": "eslovaquia",
+        "jugadores": ["Dubravka", "Hancko", "Skriniar"],
+        "imagen": [
+            "https://media.futbolfantasy.com/thumb/400x400/v202405310529/uploads/images/jugadores/ficha/5135.png", 
+            "https://d3et0fncpz2hhr.cloudfront.net/players/2022/_550x776_fit_center-center_80_none/feyenoord-d-hancko-1vyh50nfaq2kq5pmivpkc1psl-64db6b24c18a0.png",
+            "https://www.psg.fr/media/249239/hero_23-24_skriniar24.png?center=0.5,0.5&mode=crop&width=200&height=200&quality=60"
+        ]
+    }, 
+    
+    {
+        "pais": "rumania",
+        "jugadores": ["Dragusin", "Stanciu", "Ratiu"],
+        "imagen": [
+            "https://media.futbolfantasy.com/thumb/400x400/v202406030252/uploads/images/jugadores/ficha/8628.png", 
+            "https://static-files.saudi-pro-league.pulselive.com/players/headshot/p83289.png",
+            "https://assets.laliga.com/squad/2023/t184/p466543/2048x2048/p466543_t184_2023_1_002_000.jpg"
+        ]
+    }, 
+    
+    {
+        "pais": "ucrania",
+        "jugadores": ["Lunin", "Dovbyk", "Mudryk"],
+        "imagen": [
+            "https://assets.laliga.com/squad/2023/t186/p224965/1024x1024/p224965_t186_2023_1_002_000.jpg", 
+            "https://assets.laliga.com/squad/2023/t2893/p213294/2048x2225/p213294_t2893_2023_1_001_000.png",
+            "https://media.futbolfantasy.com/thumb/400x400/v202405290225/uploads/images/jugadores/ficha/8871.png"
+        ]
+    },
+    
+    {
+        "pais": "georgia",
+        "jugadores": ["Kvarastkhelia", "Mamardashvili", "Mikautdze"],
+        "imagen": [
+            "https://www.footballdatabase.eu/images/photos/players/a_336/336156.jpg", 
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4T9gCzKxA94Gw6r5ObH5zZMrbSXM7ToFYtg&s",
+            "https://img.uefa.com/imgml/TP/players/14/2024/324x324/250155025.jpg"
+        ]
+    }, 
+
+    {
+        "pais": "portugal",
+        "jugadores": ["Cristiano Ronaldo", "Bernardo Silva", "Joao Cancelo"],
+        "imagen": [
+            "https://futbolete.com/apuestas/wp-content/uploads/2022/01/1630507760cristiano-ronaldo-manchester-united-png.png", 
+            "https://www.mancity.com/meta/media/yw1hniot/bernardo-silva.png",
+            "https://assets.laliga.com/squad/2023/t178/p121145/2048x2225/p121145_t178_2023_1_001_000.png"
+        ]
+    }, 
+
+    {
+        "pais": "republica checa",
+        "jugadores": ["Schick", "Soucek", "Hlozek"],
+        "imagen": [
+            "https://media02.tr.beinsports.com/img/players/P2650.png", 
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQO_O1HjjgmwVWS6fCc3IhjYW88A-5InPw-w&s",
+            "https://media02.tr.beinsports.com/img/players/P53422.png"
+        ]
+    }, 
+
+    {
+        "pais": "turquia",
+        "jugadores": ["Ozcan", "Arda Guler", "Calhanoglu"],
+        "imagen": [
+            "https://media02.tr.beinsports.com/img/players/P3943.png", 
+            "https://assets.laliga.com/squad/2023/t186/p520250/2048x2225/p520250_t186_2023_1_001_000.png",
+            "https://intermilan.bynder.com/m/3b3b9ddd89ae562c/webimage-Calhanoglu_scheda.png"
+        ]
+    }
+]
+}
